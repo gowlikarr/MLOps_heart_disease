@@ -281,8 +281,5 @@ CI run screenshots (source run URL):
 
 - https://github.com/2024ac05500/mlops-heart-disease
 
-## License
-
-This repository is provided as course/assignment material. Modify and reuse as needed
 
 
