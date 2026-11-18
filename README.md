@@ -279,7 +279,6 @@ CI run screenshots (source run URL):
 
 ## Repository Link
 
-- https://github.com/2024ac05500/mlops-heart-disease
-
+https://github.com/gowlikarr/MLOps_heart_disease
 
 
