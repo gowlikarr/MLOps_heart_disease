@@ -271,7 +271,7 @@ After startup, open `http://127.0.0.1:3000` and the Prometheus datasource plus d
 
 CI run screenshots (source run URL):
 
-- `https://github.com/2024ac05500/mlops-heart-disease/actions/runs/29149667608/job/86537018128`
+- `https://github.com/gowlikarr/mlops-heart-disease/actions/runs/29149667608/job/86537018128`
 
 ![CI Run Summary](screenshots/workflows/ci-run-summary.png)
 
